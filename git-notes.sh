@@ -107,7 +107,8 @@ git add README.md
 git pull
 
 # the pull command knowing the remote URI specified at initialisation. Conflicts
-# may require manual fixes.
+# may require manual fixes. The pull command is itself a combination of the
+# fetch and merge commands.
 
 # Forking is a feature of GitHub (though exists conceptually in other version
 # control platforms), rather than git specifically. It is a mechanism to foster
